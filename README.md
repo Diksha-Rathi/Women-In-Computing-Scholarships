@@ -8,6 +8,13 @@ Comprehensive list of scholarships awarded by various organizations to women in 
 | Pass-It-On Awards | Anita Borg Institute | Any woman over 18 years old in or aspiring to be in the field of computing | [Website](http://anitaborg.org/awards-grants/pass-it-on-awards-program/) |
 | Women TechMaker | Google | Undergraduate or Postgraduate Student | [Website](https://www.womentechmakers.com/scholars) |
 | Scholarship Program | Microsoft | Enrolled full time in a bachelor’s degree program at a four-year college or university in North America | [Website](https://careers.microsoft.com/students/scholarships) |
-| STEM Scholarship for Women | Toptal | 13 years or older women | [Website](https://www.toptal.com/scholarships)|
+
+The following scholarships encourage students to contribute to open source projects and receive a fixed stipend or one time award for their work. 
+
+| Name | Sponsoring Organization | Link | Women Exclusive |
+| Google Summer of Code | [Website](https://developers.google.com/open-source/gsoc/) | No |
+| Outreachy | Multiple | [Website](https://www.gnome.org/outreachy/) | No |
+| STEM Scholarship for Women | Toptal | [Website](https://www.toptal.com/scholarships) | Yes |
+| Rails Girls Summer of Code | Multiple | [Website](http://railsgirlssummerofcode.org/) | Yes |
 
 For a curated list of GHC Scholarships: [freialobo/GHC-Scholarships](https://github.com/freialobo/GHC-Scholarships)
