@@ -12,9 +12,10 @@ Comprehensive list of scholarships awarded by various organizations to women in 
 The following scholarships encourage students to contribute to open source projects and receive a fixed stipend or one time award for their work. 
 
 | Name | Sponsoring Organization | Link | Women Exclusive |
-| Google Summer of Code | [Website](https://developers.google.com/open-source/gsoc/) | No |
-| Outreachy | Multiple | [Website](https://www.gnome.org/outreachy/) | No |
+|----------|-------------|------------------|------------|
+| Google Summer of Code | Google | [Website](https://developers.google.com/open-source/gsoc/) | No |
+| Outreachy | Multiple sponsors | [Website](https://www.gnome.org/outreachy/) | No |
 | STEM Scholarship for Women | Toptal | [Website](https://www.toptal.com/scholarships) | Yes |
-| Rails Girls Summer of Code | Multiple | [Website](http://railsgirlssummerofcode.org/) | Yes |
+| Rails Girls Summer of Code | Multiple sponsors | [Website](http://railsgirlssummerofcode.org/) | Yes |
 
 For a curated list of GHC Scholarships: [freialobo/GHC-Scholarships](https://github.com/freialobo/GHC-Scholarships)
