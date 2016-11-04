@@ -9,3 +9,5 @@ Comprehensive list of scholarships awarded by various organizations to women in 
 | Women TechMaker | Google | Undergraduate or Postgraduate Student | [Website](https://www.womentechmakers.com/scholars) |
 | Scholarship Program | Microsoft | Enrolled full time in a bachelor’s degree program at a four-year college or university in North America | [Website](https://careers.microsoft.com/students/scholarships) |
 | STEM Scholarship for Women | Toptal | 13 years or older women | [Website](https://www.toptal.com/scholarships)|
+
+For a curated list of GHC Scholarships: [freialobo/GHC-Scholarships](https://github.com/freialobo/GHC-Scholarships)
