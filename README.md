@@ -8,6 +8,7 @@ The following scholarships cover the tuition fee of the student for one or more 
 |:----------:|:-------------:|------------------|:------------:|
 | Women In Technology | Adobe India | Enrolled as a student or intend to enroll in the next academic year | [Website](http://www.adobe.com/careers/university/india-women-tech.html) |
 | Pass-It-On Awards | Anita Borg Institute | Any woman over 18 years old in or aspiring to be in the field of computing | [Website](http://anitaborg.org/awards-grants/pass-it-on-awards-program/) |
+| Carnegie Mellon Executive Women’s Forum INI Fellowship | Carnegie Mellon | The Information Networking Institute (INI) partners with the Executive Women’s Forum (EWF), to offer a full scholarship to an incoming INI student. | [Website](https://www.cmu.edu/ini/admissions/financial/scholarship.html) |
 | Women TechMaker | Google | Undergraduate or Postgraduate Student | [Website](https://www.womentechmakers.com/scholars) |
 | Scholarship Program | Microsoft | Enrolled full time in a bachelor’s degree program at a four-year college or university in North America | [Website](https://careers.microsoft.com/students/scholarships) |
 
